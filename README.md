@@ -1,12 +1,12 @@
 # Wayspire-Project
-Fraud Mask Detection System
+Face Mask Detection System
 
 Fraud News Detection System
 
 Image Caption Generator
 
 
-🧠 1. Fraud Mask Detection System
+🧠 1. Face Mask Detection System
 This project uses OpenCV and a pre-trained deep learning model to perform real-time face mask detection through a webcam feed. It identifies faces and classifies whether a person is wearing a mask or not. The system was built using Python, OpenCV, TensorFlow/Keras, and a CNN-based architecture. It can be deployed in public places to monitor compliance with health safety protocols.
 
 
